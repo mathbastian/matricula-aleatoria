@@ -8,11 +8,13 @@ A recomendação é que se limite o número máximo para 10, como no cenário 10, pois
 
 #### Execução 1
 
-Cenário 1 com numero maximo de 10, teve 46 numeros rejeitados
-Cenário 2 com numero maximo de 15, teve 94 numeros rejeitados
-Cenário 3 com numero maximo de 25, teve 191 numeros rejeitados
-Cenário 4 com numero maximo de 50, teve 467 numeros rejeitados
-Cenário 5 com numero maximo de 100, teve 744 numeros rejeitados
+| Cenário | Descrição |
+| ------- | --------- |
+| Cenário 1 | com numero maximo de 10, teve 46 numeros rejeitados |
+| Cenário 2 | com numero maximo de 15, teve 94 numeros rejeitados |
+| Cenário 3 | com numero maximo de 25, teve 191 numeros rejeitados |
+| Cenário 4 | com numero maximo de 50, teve 467 numeros rejeitados |
+| Cenário 5 | com numero maximo de 100, teve 744 numeros rejeitados |
 
 #### Execução 2
 
