@@ -12,8 +12,16 @@ public class Main {
 		for (Scenario scenario : scenarios) {
 			RejectedNumbersCalculator rejectedNumbersCalculator = new RejectedNumbersCalculator();
 			rejectedNumbers = rejectedNumbersCalculator.calculate(scenario);
-			System.out.println(scenario.getDescription() + " teve " + rejectedNumbers + " numeros rejeitados");
+			printResult(scenario, rejectedNumbers);
 		}
+	}
+	
+	private static void printResult(Scenario scenario, int rejectedNumbers) {
+		System.out.println(scenario.getDescription() 
+				   + " com numero maximo de " 
+				   + scenario.getMaxValue()
+				   + ", teve "
+				   + rejectedNumbers + " numeros rejeitados");		
 	}
 
 }
