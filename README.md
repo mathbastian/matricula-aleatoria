@@ -16,8 +16,10 @@ Cenário 5 com numero maximo de 100, teve 744 numeros rejeitados
 
 #### Execução 2
 
-Cenário 1 com numero maximo de 10, teve 112 numeros rejeitados
-Cenário 2 com numero maximo de 15, teve 171 numeros rejeitados
-Cenário 3 com numero maximo de 25, teve 149 numeros rejeitados
-Cenário 4 com numero maximo de 50, teve 491 numeros rejeitados
-Cenário 5 com numero maximo de 100, teve 728 numeros rejeitados
+| Cenário | Descrição |
+| ------- | --------- |
+| Cenário 1 | com numero maximo de 10, teve 112 numeros rejeitados |
+| Cenário 2 | com numero maximo de 15, teve 171 numeros rejeitados |
+| Cenário 3 | com numero maximo de 25, teve 149 numeros rejeitados |
+| Cenário 4 | com numero maximo de 50, teve 491 numeros rejeitados |
+| Cenário 5 | com numero maximo de 100, teve 728 numeros rejeitados|
